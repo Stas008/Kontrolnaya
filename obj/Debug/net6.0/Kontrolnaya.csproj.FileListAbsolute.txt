@@ -1,0 +1,15 @@
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.deps.json
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.runtimeconfig.json
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.dll
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/bin/Debug/net6.0/Kontrolnaya.pdb
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.csproj.AssemblyReference.cache
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.AssemblyInfoInputs.cache
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.AssemblyInfo.cs
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.csproj.CoreCompileInputs.cache
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.dll
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/refint/Kontrolnaya.dll
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.pdb
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/Kontrolnaya.genruntimeconfig.cache
+/Users/dalimovstanislav/Documents/GB/ДЗ/СиШарп/Сем/Kontrolnaya/obj/Debug/net6.0/ref/Kontrolnaya.dll
