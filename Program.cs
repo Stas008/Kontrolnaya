@@ -1,17 +1,28 @@
 ﻿string str;
+string temp=String.Empty;
 string[] words;
 string[] result;
 str=File.ReadAllText( "input.txt");
 words=str.Split(' ', ',', ';', '’');
-void Zadacha (string[] input, string[] output)
+string Zadacha (string[] input)
 {
-    int j=0;
     for (int i = 0; i < input.GetLength(0); i++)
     {
         if (input[i].Length<=3)
         {
-            output[j]=input[i];
-            j++;
+            temp=temp+input[i]+' ';
         }
     }
+return temp;
 }
+void PrintStringArray (string[] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        Console.WriteLine(array[i]);   
+    }
+}
+result=Zadacha(words).Split (' ');
+PrintStringArray(result);
+File.WriteAllText ("output.txt", temp);
+temp=String.Empty;
